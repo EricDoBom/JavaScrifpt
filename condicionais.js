@@ -19,7 +19,7 @@ if (idadeComprador >= 18 || estaAcompanhada == true){
     passagem == true;
     console.log("Comprador maior de idade!");
     listaDestinos.splice(1,1); //removendo item
-}     else {
+}    else{
     console.log("Não é maior de idade e não posso vender.");
     }
 
