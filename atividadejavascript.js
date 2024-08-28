@@ -9,5 +9,8 @@ const profissao = "estudante";
 
 console.log(nome)
 console.log(idade)
-console.log()
+console.log(email)
+console.log(endereço)
+console.log(sexo)
+console.log(profissao)
 
